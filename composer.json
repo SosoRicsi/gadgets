@@ -1,0 +1,16 @@
+{
+    "name": "apiphp/gadgets",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ApiPHP\\Gadgets\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jarkó Richárd",
+            "email": "jarkoricsi16@gmail.com"
+        }
+    ],
+    "require": {}
+}
